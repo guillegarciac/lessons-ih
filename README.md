@@ -6,3 +6,5 @@
 - [29-10-2022: CSS | Selectors](https://ironhack.zoom.us/rec/share/QV8Cpk8uW8g_YUf7SUxqH_KoYwuWRSGB8rBkg8QMjv8JfHncTb-It7Dmk3WzQ46v.xXy6CtDLEdbd1v8D?startTime=1667032595000)
 - [29-10-2022: CSS | Display & Positioning](https://ironhack.zoom.us/rec/share/QV8Cpk8uW8g_YUf7SUxqH_KoYwuWRSGB8rBkg8QMjv8JfHncTb-It7Dmk3WzQ46v.xXy6CtDLEdbd1v8D?startTime=1667039828000)
 - [29-10-2022: CSS | Flex & media queries](https://ironhack.zoom.us/rec/share/QV8Cpk8uW8g_YUf7SUxqH_KoYwuWRSGB8rBkg8QMjv8JfHncTb-It7Dmk3WzQ46v.xXy6CtDLEdbd1v8D?startTime=1667044265000)
+- [01-11-2022: JS | Intro & numbers + strings](https://ironhack.zoom.us/rec/share/lBzi1x9zJmeMae0DRP5AXjMQJLLyFuemQmVc_KUI3IkIZVs_95LaUfnRJZnK9lYL.knNAJe46xB5dmp3H?startTime=1667324258000)
+- [01-11-2022: JS | Functions intro](https://ironhack.zoom.us/rec/share/lBzi1x9zJmeMae0DRP5AXjMQJLLyFuemQmVc_KUI3IkIZVs_95LaUfnRJZnK9lYL.knNAJe46xB5dmp3H?startTime=1667332233000)
