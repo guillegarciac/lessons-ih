@@ -8,3 +8,6 @@
 - [29-10-2022: CSS | Flex & media queries](https://ironhack.zoom.us/rec/share/QV8Cpk8uW8g_YUf7SUxqH_KoYwuWRSGB8rBkg8QMjv8JfHncTb-It7Dmk3WzQ46v.xXy6CtDLEdbd1v8D?startTime=1667044265000)
 - [01-11-2022: JS | Intro & numbers + strings](https://ironhack.zoom.us/rec/share/lBzi1x9zJmeMae0DRP5AXjMQJLLyFuemQmVc_KUI3IkIZVs_95LaUfnRJZnK9lYL.knNAJe46xB5dmp3H?startTime=1667324258000)
 - [01-11-2022: JS | Functions intro](https://ironhack.zoom.us/rec/share/lBzi1x9zJmeMae0DRP5AXjMQJLLyFuemQmVc_KUI3IkIZVs_95LaUfnRJZnK9lYL.knNAJe46xB5dmp3H?startTime=1667332233000)
+- [03-11-2022: JS | Repaso functions & conditionals](https://ironhack.zoom.us/rec/share/UySzW0seqaqMY1boR6EI2pNEC_81s8hZWGRKUCO9iSMgqyHSqJqfK3bExaENCTZ5.RPj8WCbEg27zw_fE?startTime=1667498648000)
+- [03-11-2022: JS | Switch statement](https://ironhack.zoom.us/rec/share/UySzW0seqaqMY1boR6EI2pNEC_81s8hZWGRKUCO9iSMgqyHSqJqfK3bExaENCTZ5.RPj8WCbEg27zw_fE?startTime=1667502643000)
+- [03-11-2022: JS | Loops](https://ironhack.zoom.us/rec/share/UySzW0seqaqMY1boR6EI2pNEC_81s8hZWGRKUCO9iSMgqyHSqJqfK3bExaENCTZ5.RPj8WCbEg27zw_fE?startTime=1667505015000)
