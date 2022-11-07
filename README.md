@@ -11,3 +11,6 @@
 - [03-11-2022: JS | Repaso functions & conditionals](https://ironhack.zoom.us/rec/share/UySzW0seqaqMY1boR6EI2pNEC_81s8hZWGRKUCO9iSMgqyHSqJqfK3bExaENCTZ5.RPj8WCbEg27zw_fE?startTime=1667498648000)
 - [03-11-2022: JS | Switch statement](https://ironhack.zoom.us/rec/share/UySzW0seqaqMY1boR6EI2pNEC_81s8hZWGRKUCO9iSMgqyHSqJqfK3bExaENCTZ5.RPj8WCbEg27zw_fE?startTime=1667502643000)
 - [03-11-2022: JS | Loops](https://ironhack.zoom.us/rec/share/UySzW0seqaqMY1boR6EI2pNEC_81s8hZWGRKUCO9iSMgqyHSqJqfK3bExaENCTZ5.RPj8WCbEg27zw_fE?startTime=1667505015000)
+- [05-11-2022: JS | Arrays](https://ironhack.zoom.us/rec/share/8wx6jgsa7nPZxTIv0ZPhN0z1ysu4H802nHzIbCRaW4Zut2MSYbvmSay72Sxahg8k.7GA33HlpYrRw96op?startTime=1667640550000)
+- [05-11-2022: JS | Arrays II](https://ironhack.zoom.us/rec/share/8wx6jgsa7nPZxTIv0ZPhN0z1ysu4H802nHzIbCRaW4Zut2MSYbvmSay72Sxahg8k.7GA33HlpYrRw96op?startTime=1667648028000)
+- [05-11-2022: JS | Objects & Arrays](https://ironhack.zoom.us/rec/share/8wx6jgsa7nPZxTIv0ZPhN0z1ysu4H802nHzIbCRaW4Zut2MSYbvmSay72Sxahg8k.7GA33HlpYrRw96op?startTime=1667651846000)
