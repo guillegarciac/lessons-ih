@@ -14,3 +14,4 @@
 - [05-11-2022: JS | Arrays](https://ironhack.zoom.us/rec/share/8wx6jgsa7nPZxTIv0ZPhN0z1ysu4H802nHzIbCRaW4Zut2MSYbvmSay72Sxahg8k.7GA33HlpYrRw96op?startTime=1667640550000)
 - [05-11-2022: JS | Arrays II](https://ironhack.zoom.us/rec/share/8wx6jgsa7nPZxTIv0ZPhN0z1ysu4H802nHzIbCRaW4Zut2MSYbvmSay72Sxahg8k.7GA33HlpYrRw96op?startTime=1667648028000)
 - [05-11-2022: JS | Objects & Arrays](https://ironhack.zoom.us/rec/share/8wx6jgsa7nPZxTIv0ZPhN0z1ysu4H802nHzIbCRaW4Zut2MSYbvmSay72Sxahg8k.7GA33HlpYrRw96op?startTime=1667651846000)
+- [08-11-2022: JS | Scope, hoisting, functions review](https://github.com/webpt-102022/javascript-code/blob/main/assessment.js)
