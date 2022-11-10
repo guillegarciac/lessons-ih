@@ -15,3 +15,6 @@
 - [05-11-2022: JS | Arrays II](https://ironhack.zoom.us/rec/share/8wx6jgsa7nPZxTIv0ZPhN0z1ysu4H802nHzIbCRaW4Zut2MSYbvmSay72Sxahg8k.7GA33HlpYrRw96op?startTime=1667648028000)
 - [05-11-2022: JS | Objects & Arrays](https://ironhack.zoom.us/rec/share/8wx6jgsa7nPZxTIv0ZPhN0z1ysu4H802nHzIbCRaW4Zut2MSYbvmSay72Sxahg8k.7GA33HlpYrRw96op?startTime=1667651846000)
 - [08-11-2022: JS | Scope, hoisting, functions review](https://github.com/webpt-102022/javascript-code/blob/main/assessment.js)
+- [10-11-2022: JS | Copying arrays and objects](https://ironhack.zoom.us/rec/share/zGu1YLhfiDB2jhl2MQ2xPxJnY930UmXiaIKzA3MFmpF7JI_kOFW4pilDVCOgnf-C.6mX9UJXD_KU5W98-?startTime=1668101976000)
+- [10-11-2022: JS | Array methods: map(), filter(), reduce()](https://ironhack.zoom.us/rec/share/zGu1YLhfiDB2jhl2MQ2xPxJnY930UmXiaIKzA3MFmpF7JI_kOFW4pilDVCOgnf-C.6mX9UJXD_KU5W98-?startTime=1668103858000)
+- [10-11-2022: JS | Array methods: sort(), reverse()](https://ironhack.zoom.us/rec/share/zGu1YLhfiDB2jhl2MQ2xPxJnY930UmXiaIKzA3MFmpF7JI_kOFW4pilDVCOgnf-C.6mX9UJXD_KU5W98-?startTime=1668107572000)
