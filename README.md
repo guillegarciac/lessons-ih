@@ -18,3 +18,4 @@
 - [10-11-2022: JS | Copying arrays and objects](https://ironhack.zoom.us/rec/share/zGu1YLhfiDB2jhl2MQ2xPxJnY930UmXiaIKzA3MFmpF7JI_kOFW4pilDVCOgnf-C.6mX9UJXD_KU5W98-?startTime=1668101976000)
 - [10-11-2022: JS | Array methods: map(), filter(), reduce()](https://ironhack.zoom.us/rec/share/zGu1YLhfiDB2jhl2MQ2xPxJnY930UmXiaIKzA3MFmpF7JI_kOFW4pilDVCOgnf-C.6mX9UJXD_KU5W98-?startTime=1668103858000)
 - [10-11-2022: JS | Array methods: sort(), reverse()](https://ironhack.zoom.us/rec/share/zGu1YLhfiDB2jhl2MQ2xPxJnY930UmXiaIKzA3MFmpF7JI_kOFW4pilDVCOgnf-C.6mX9UJXD_KU5W98-?startTime=1668107572000)
+- [12-11-2022: JS | Object Oriented Programming](https://ironhack.zoom.us/rec/share/-YLDIyg4b-p_ox-PmpJhuOhxwJ93i7haa9Ck4wCTzHNMwx97cXayQw8YHiGF5R35.C1ss7Od6prsIW8ZW?startTime=1668245664000)
