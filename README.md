@@ -2,6 +2,8 @@
 
 ## Module 1
 
+### Videos
+
 - [27-10-2022: HTML | Repaso html, css, git](https://ironhack.zoom.us/rec/share/nD2NEG4op39fuUCVHRM0B7qzSJo3Z-IYb5nuoA-inM992E3Zx06N0j-cayt2suJ5.rsZPdoJaCsUL83am?startTime=1666888979000)
 - [29-10-2022: CSS | Selectors](https://ironhack.zoom.us/rec/share/QV8Cpk8uW8g_YUf7SUxqH_KoYwuWRSGB8rBkg8QMjv8JfHncTb-It7Dmk3WzQ46v.xXy6CtDLEdbd1v8D?startTime=1667032595000)
 - [29-10-2022: CSS | Display & Positioning](https://ironhack.zoom.us/rec/share/QV8Cpk8uW8g_YUf7SUxqH_KoYwuWRSGB8rBkg8QMjv8JfHncTb-It7Dmk3WzQ46v.xXy6CtDLEdbd1v8D?startTime=1667039828000)
@@ -20,3 +22,12 @@
 - [10-11-2022: JS | Array methods: sort(), reverse()](https://ironhack.zoom.us/rec/share/zGu1YLhfiDB2jhl2MQ2xPxJnY930UmXiaIKzA3MFmpF7JI_kOFW4pilDVCOgnf-C.6mX9UJXD_KU5W98-?startTime=1668107572000)
 - [12-11-2022: JS | Object Oriented Programming](https://ironhack.zoom.us/rec/share/-YLDIyg4b-p_ox-PmpJhuOhxwJ93i7haa9Ck4wCTzHNMwx97cXayQw8YHiGF5R35.C1ss7Od6prsIW8ZW?startTime=1668245664000)
 - [15-11-2022: JS | setTimeout & setInterval](https://ironhack.zoom.us/rec/share/xbxjzay0OCFzuq8IbwZ2_qjwkcRcqDu5OJ9IABNFDDiFsmFVoQmqBA-FzAUBqZSi.imqnb_dQ6_Tsr25w?startTime=1668533698000)
+- [17-11-2022: DOM | Selectors & manipulation](https://ironhack.zoom.us/rec/share/WzRlTFewoxohX-aXx8MExBZCi5qNxHT6zKAfYC7ALWGoRLBRZ38fQfZjiGOrDvMI.nT-rgcpqMRRYd4nF?startTime=1668706647000)
+- [17-11-2022: DOM | Event listeners](https://ironhack.zoom.us/rec/share/WzRlTFewoxohX-aXx8MExBZCi5qNxHT6zKAfYC7ALWGoRLBRZ38fQfZjiGOrDvMI.nT-rgcpqMRRYd4nF?startTime=1668711755000)
+
+### Repos
+
+- [HTML First day code](https://github.com/webpt-102022/html-first-day)
+- [JavaScript lessons code](https://github.com/webpt-102022/javascript-code)
+- [Object Oriented Programming code (classes)](https://github.com/webpt-102022/oop)
+- [DOM Manipulation class code](https://github.com/webpt-102022/dom-manipulation)
