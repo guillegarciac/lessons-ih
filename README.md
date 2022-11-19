@@ -24,6 +24,7 @@
 - [15-11-2022: JS | setTimeout & setInterval](https://ironhack.zoom.us/rec/share/xbxjzay0OCFzuq8IbwZ2_qjwkcRcqDu5OJ9IABNFDDiFsmFVoQmqBA-FzAUBqZSi.imqnb_dQ6_Tsr25w?startTime=1668533698000)
 - [17-11-2022: DOM | Selectors & manipulation](https://ironhack.zoom.us/rec/share/WzRlTFewoxohX-aXx8MExBZCi5qNxHT6zKAfYC7ALWGoRLBRZ38fQfZjiGOrDvMI.nT-rgcpqMRRYd4nF?startTime=1668706647000)
 - [17-11-2022: DOM | Event listeners](https://ironhack.zoom.us/rec/share/WzRlTFewoxohX-aXx8MExBZCi5qNxHT6zKAfYC7ALWGoRLBRZ38fQfZjiGOrDvMI.nT-rgcpqMRRYd4nF?startTime=1668711755000)
+- [19-11-2022: DOM | Creating and deleting elements of the DOM](https://ironhack.zoom.us/rec/play/jgi0U9nPo4ljMLIuh4HRRRm69Yr2X11duCaYvUc7Af2Nqpl2E0ht9dWPJgb3SDxUpiUfSqd_Ea27VI_y.1uVDq5hoUjP_T3Bd?startTime=1668850451000)
 
 ### Repos
 
@@ -31,3 +32,5 @@
 - [JavaScript lessons code](https://github.com/webpt-102022/javascript-code)
 - [Object Oriented Programming code (classes)](https://github.com/webpt-102022/oop)
 - [DOM Manipulation class code](https://github.com/webpt-102022/dom-manipulation)
+- [Guessing game finished](https://github.com/alebausa/guessing-game-finished)
+- [My friends owe me pizza money miniapp](https://github.com/alebausa/pizza-money-finished)
